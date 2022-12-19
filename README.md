@@ -4,7 +4,7 @@
 ![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/3.svg)
 ![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/4.svg)
 
-## :busts_in_silhouette: Autores:
+## :busts_in_silhouette: Contato:
 
 <table>
 <tr>
