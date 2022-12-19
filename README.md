@@ -1,7 +1,5 @@
 ![Logo](https://raw.githubusercontent.com/projetomentalize/midia/main/Blue%20Mind%20Psychology%20Care%20Mental%20Health%20Logo%20(Banner%20(Landscape))%20(1280%20%C3%97%20640%20px).gif)
 ![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/1.svg)
-![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/2.svg)
-![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/3.svg)
 ![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/4.svg)
 
 ## :busts_in_silhouette: Contato:
