@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td align="center"><a href="https://github.com/CarlosEduardoSilverio"><img style="border-rounded: 50%;" src="https://github.com/CarlosEduardoSilverio.png" width="100px;" alt="Carlos Eduardo"/><br /><sub><b>	Carlos Eduardo</b></sub></a><br/></td>
-<td align="center"><a href="https://github.com/deehrv"><img style="border-radius: 50%;" src="https://github.com/deehrv.png" width="100px;" alt="Débora Ribeiro"/><br /><sub><b>Débora Ribeiro/b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/deehrv"><img style="border-radius: 50%;" src="https://github.com/deehrv.png" width="100px;" alt="Débora Ribeiro"/><br /><sub><b>Debora Ribeiro</b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/gabrielsjobs"><img style="border-radius: 50%;" src="https://github.com/gabrielsjobs.png" width="100px;" alt="Gabriel Oliveira"/><br /><sub><b>Gabriel Oliveira</b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/jessykacarolina"><img style="border-radius: 50%;" src="https://github.com/jessykacarolina.png" width="100px;" alt="Jessyca Carolina"/><br /><sub><b>Jessyca Carolina</b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/Renanbarsan"><img style="border-radius: 50%;" src="https://github.com/Renanbarsan.png" width="100px;" alt="Renan Barsan"/><br /><sub><b>Renan Barsan</b></sub></a><br/></td>
