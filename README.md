@@ -2,6 +2,8 @@
 [Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/1.svg)
 ![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/4.svg) -->
 
+## :star2: O Projeto:
+
 O Mentalize é uma rede social que vai conectar profissionais da área de saúde mental às pessoas que precisam de tratamento e apoio piscológico, com o obejtivo de atender a meta 3.4 da ODS3 que é até 2030 promover saúde e bem estar mental para a população brasileira .
 
 
