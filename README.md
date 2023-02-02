@@ -1,8 +1,11 @@
 ![Logo](https://raw.githubusercontent.com/projetomentalize/midia/main/Blue%20Mind%20Psychology%20Care%20Mental%20Health%20Logo%20(Banner%20(Landscape))%20(1280%20%C3%97%20640%20px).gif)
-![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/1.svg)
+<--!
+[Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/1.svg)
 ![Thumbnail GitHub](https://raw.githubusercontent.com/projetomentalize/midia/5efb129768a985ccf013b33ad617ca92c8908f7e/4.svg)
+-->
+O Mentalize é uma rede social que vai conectar profissionais da área de saúde mental às pessoas que precisam de tratamento e apoio piscológico, com o obejtivo de atender a meta 3.4 da ODS3 que é até 2030 promover saúde e bem estar mental para a população brasileira .
 
-## :busts_in_silhouette: Contato:
+## :busts_in_silhouette: Equipe:
 
 <table>
 <tr>
