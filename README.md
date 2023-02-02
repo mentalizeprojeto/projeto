@@ -4,7 +4,9 @@
 
 O Mentalize é uma rede social que vai conectar profissionais da área de saúde mental às pessoas que precisam de tratamento e apoio piscológico, com o obejtivo de atender a meta 3.4 da ODS3 que é até 2030 promover saúde e bem estar mental para a população brasileira .
 
-## :busts_in_silhouette: Equipe:
+
+
+## :brain: Equipe:
 
 <table>
 <tr>
